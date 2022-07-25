@@ -1,14 +1,5 @@
 ### My first repository is awesome!
 
-I'm [PSEUDO/NAME] and here it's my first GitHub repository.
-If you see this file on my project, it's because I'm learning Git.
-
-My mood:
-
-> [MOOD NAME]
-
-My favorite color:
-
-> [COLOR NAME]
+I'm MohammadHossein Namdar and here it's my first GitHub repository.
 
 Thank you so much for reading! ☺
